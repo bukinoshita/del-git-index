@@ -19,6 +19,14 @@ $ git-index --help
     -v, --version      Show version
 ```
 
+## Why
+
+Accidentally deleted the entire git history by running `rm -rf .git` instead of running `rm -rf .git/index.lock`. So I don't have to worry anymore with pressing `enter` key by mistake.
+
+# Demo
+
+![](https://github.com/bukinoshita/del-git-index/blob/master/demo.gif)
+
 ## License
 
 MIT © [Bu Kinoshita](https://bukinoshita.io)
