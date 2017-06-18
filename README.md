@@ -9,7 +9,7 @@ $ npm install -g del-git-index
 
 ## Usage
 ```bash
-$ del-git-index --help
+$ git-index --help
 
   Usage:
     $ git-index        Deletes index.lock of the current project
