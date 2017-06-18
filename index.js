@@ -28,7 +28,7 @@ const cli = meow(
 updateNotifier({ pkg: cli.pkg }).notify()
 
 const run = () => {
-  del(path.resolve(process.cwd(), 'git/index.lock'))
+  del(path.resolve(process.cwd(), '.git/index.lock'))
     .then(file => {
       if (file[0]) {
         return shoutSuccess('`index.lock` deleted.')
