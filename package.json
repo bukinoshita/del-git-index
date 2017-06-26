@@ -1,6 +1,6 @@
 {
   "name": "del-git-index",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Safely delete index.lock of the current project",
   "main": "index.js",
   "repository": "https://github.com/bukinoshita/del-git-index.git",
