@@ -20,7 +20,7 @@
     "update-notifier": "^2.2.0"
   },
   "devDependencies": {
-    "xo": "^0.18.2"
+    "xo": "0.18.2"
   },
   "keywords": [
     "del",
