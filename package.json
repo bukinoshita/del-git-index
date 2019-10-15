@@ -13,7 +13,7 @@
     "git-index": "index.js"
   },
   "dependencies": {
-    "del": "^3.0.0",
+    "del": "^5.0.0",
     "meow": "^5.0.0",
     "shout-error": "^0.0.2",
     "shout-success": "^0.0.2",
